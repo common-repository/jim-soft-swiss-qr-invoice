@@ -1,0 +1,418 @@
+# Copyright (C) 2021 JimSoft
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: JimSoft QR Bill 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/plugin\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-11-26T09:57:07+00:00\n"
+"PO-Revision-Date: 2023-05-09 12:55+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.2; wp-6.2"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:55
+msgid "Allows QR invoice payments."
+msgstr "Ermöglicht QR-Rechnungszahlungen."
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:8
+msgid "Attach invoice to other payment methods"
+msgstr "Rechnung an andere Zahlungsarten anhängen"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:22
+msgid "Attach to "
+msgstr "Anhängen an"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:198
+msgid "Awaiting invoice payment"
+msgstr "Warten auf die Bezahlung der Rechnung"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:63
+msgid "Bank data"
+msgstr "Bank Daten"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:101
+msgid "Choose an order status"
+msgstr "Wählen Sie einen Bestellstatus"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:44
+msgid "Choose email types for invoice attachment"
+msgstr "Email-Typen, an welche die Rechnung angehängt werden soll"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:106
+msgid "Choose the order status that will be set after checkout"
+msgstr "Wählen Sie den Bestellstatus, der nach dem Checkout gesetzt wird"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:133
+msgid "City"
+msgstr "Ort"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:103
+msgid "Company"
+msgstr "Firma"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:96
+msgid "Creditor"
+msgstr "Creditor"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:301
+msgid "Creditor fontsize"
+msgstr "Creditor Schriftgrösse"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:296
+msgid "Creditor textarea"
+msgstr "Creditor Textfeld"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:306
+msgid "Creditor textarea position (horizontal)"
+msgstr "Creditor Textfeld Position (Horizontal)"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:312
+msgid "Creditor textarea position (vertical)"
+msgstr "Creditor Textfeld Position (Vertikal)"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:81
+msgid "Customer Identification Number"
+msgstr "Customer Identification Number"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:234
+msgid "Customer notice fontsize"
+msgstr "Kundennotiz Schriftgrösse"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:328
+msgid "Date location"
+msgstr "Datum Ort"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:333
+msgid "Date output format"
+msgstr "Datum Ausgabeformatierung"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:339
+msgid "Date position (horizontal)"
+msgstr "Datum Position (Horizontal)"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:345
+msgid "Date position (vertical)"
+msgstr "Datum Position (Vertikal)"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:323
+msgid "Date/Location fontsize"
+msgstr "Datum Schriftgrösse"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:283
+msgid "Debitor address position (horizontal)"
+msgstr "Debitor Adresse Position (Horizontal)"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:289
+msgid "Debitor address position (vertical)"
+msgstr "Debitor Adresse Position (Vertikal)"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:278
+msgid "Debitor address text fontsize"
+msgstr "Debitor Adresse Schriftgrösse"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:69
+msgid "Default IBAN"
+msgstr "Standard IBAN"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:174
+msgid "Default value"
+msgstr "Standardwert"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:87
+msgid "Description"
+msgstr "Beschreibung"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:76
+msgid "Enable QR Invoice Payment"
+msgstr "Aktiviere Bezahlmethode \"QR Rechnung\""
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:74
+msgid "Enable/Disable"
+msgstr "Aktivieren/Deaktivieren"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:113
+msgid "First name"
+msgstr "Vorname"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:149
+msgid "Fontsize"
+msgstr "Schriftgrösse"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:335
+msgid "Format for date() function e.g. \"d.m.Y\""
+msgstr "Formatierung für date()-Funktion"
+
+#. Author URI of the plugin
+msgid "https://jimsoft.ch"
+msgstr "https://jimsoft.ch"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:251
+#: admin/partials/jimsoft-qr-bill-settings-main.php:257
+#: admin/partials/jimsoft-qr-bill-settings-main.php:263
+#: admin/partials/jimsoft-qr-bill-settings-main.php:269
+#: admin/partials/jimsoft-qr-bill-settings-main.php:285
+#: admin/partials/jimsoft-qr-bill-settings-main.php:291
+#: admin/partials/jimsoft-qr-bill-settings-main.php:308
+#: admin/partials/jimsoft-qr-bill-settings-main.php:314
+#: admin/partials/jimsoft-qr-bill-settings-main.php:341
+#: admin/partials/jimsoft-qr-bill-settings-main.php:347
+msgid "in millimeters"
+msgstr "Angabe in Millimeter"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:94
+msgid "Instructions"
+msgstr "Anleitung"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:96
+msgid ""
+"Instructions that will be added to the thank you page after checkout and "
+"included within the new order email."
+msgstr ""
+"Anweisungen, die auf der Dankeseite nach der Kaufabwicklung und in der E-"
+"Mail mit der neuen Bestellung enthalten sein werden."
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:87
+msgid "Invoice additional information"
+msgstr "Rechnung Zusätzliche Informationen"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:83
+msgid "Invoice Payment"
+msgstr "Bezahlung mit Rechnung"
+
+#. Author of the plugin
+msgid "Jim Soft"
+msgstr "Jim Soft"
+
+#. Plugin Name of the plugin
+msgid "Jim Soft Swiss QR Invoice"
+msgstr "Jim Soft Schweizer QR Rechnung"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:118
+msgid "Last name"
+msgstr "Nachname"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:267
+msgid "Logo height"
+msgstr "Logo Höhe"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:249
+msgid "Logo position (horizontal)"
+msgstr "Logo Position (Horizontal)"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:255
+msgid "Logo position (vertical)"
+msgstr "Logo Position (Vertikal)"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:244
+msgid "Logo URL"
+msgstr "Logo URL"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:261
+msgid "Logo width"
+msgstr "Logo Breite"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:154
+msgid "Margin left"
+msgstr "Seitenabstand Links"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:160
+msgid "Margin right"
+msgstr "Seitenabstand Rechts"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:32
+msgid "No other payment gateways available"
+msgstr "Keine anderen Bezahlmöglichkeiten vorhanden"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:71
+msgid "Normal IBAN number (if no QR-Iban available)."
+msgstr "Normale IBAN-Nummer (Falls keine QR-Iban vorhanden)."
+
+#: wc-templates/order/order-details.php:96
+#: wc-templates/order/order-details.php:146
+msgid "Note:"
+msgstr "Hinweis:"
+
+#: includes/class-jimsoft-qr-bill-activator.php:33
+#: includes/class-jimsoft-qr-bill-activator.php:39
+msgid "Order #[order_number]"
+msgstr "Bestellung #[order_number]"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:178
+#| msgid "Order details Text"
+msgid "Order details text"
+msgstr "Bestelldetails Text"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:183
+msgid "Order details text fontsize"
+msgstr "Bestelldetails Text Schriftgrösse"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:166
+msgid "Order details title"
+msgstr "Bestelldetails Titel"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:172
+msgid "Order details title fontsize"
+msgstr "Bestelldetails Titel Schriftgrösse"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:193
+msgid "Order positions hide meta"
+msgstr "Verstecke Bestellpositionen zusätzliche Angaben"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:89
+msgid "Payment method description which the user sees during checkout."
+msgstr ""
+"Beschreibung der Zahlungsmethode, die der Benutzer beim Checkout sieht."
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:142
+msgid "PDF Configuration"
+msgstr "PDF Konfiguration"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:128
+msgid "Postcode"
+msgstr "Postleitzahl"
+
+#: wc-templates/order/order-details.php:104
+msgid "Product"
+msgstr "Produkt"
+
+#: admin/class-jimsoft-qr-bill-admin.php:131
+#: admin/class-jimsoft-qr-bill-wc-settings.php:36
+msgid "QR Invoice"
+msgstr "QR-Rechnung"
+
+#: admin/class-jimsoft-qr-bill-admin.php:114
+msgid "QR invoice download"
+msgstr "QR Rechnung herunterladen"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:54
+msgid "QR Invoice Payments"
+msgstr "QR-Rechnung-Zahlungen"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:75
+msgid "QR-IBAN"
+msgstr "QR-IBAN"
+
+#: wc-templates/order/order-details.php:105
+msgid "Quantity"
+msgstr "Menge"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:108
+msgid "Salutation"
+msgstr "Anrede"
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:110
+msgid "Select order status"
+msgstr "Bestellstatus auswählen"
+
+#: admin/class-jimsoft-qr-bill-wc-settings.php:54 jimsoft-qr-bill.php:53
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:229
+msgid "Show customer notice"
+msgstr "Zeige Kundennotiz"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:318
+msgid "Show date/location"
+msgstr "Zeige Datum/Ort"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:273
+msgid "Show debitor address"
+msgstr "Zeige Debitor Adresse"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:239
+msgid "Show logo"
+msgstr "Zeige Logo"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:188
+msgid "Show order positions"
+msgstr "Zeige Bestellpositionen"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:123
+msgid "Street"
+msgstr "Strasse"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:203
+msgid "Table cell padding"
+msgstr "Tabellenzelle Padding"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:219
+msgid "Table even row color"
+msgstr "Tabellenzeile Farbe (gerade)"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:198
+msgid "Table fontsize"
+msgstr "Tabelle Schriftgrösse"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:214
+msgid "Table odd row color"
+msgstr "Tabellenzeile Farbe (ungerade)"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:208
+msgid "Table primary color"
+msgstr "Tabelle Primärfarbe"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:224
+msgid "Table summary: border color"
+msgstr "Tabelle Zusammenfassung: Rahmenfarbe"
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:83
+msgid ""
+"The customer Identification number acts as this unique number that helps "
+"banks identify which customer is being referred to with regards to any query "
+"or service request. Every bank has its way of creating Customer ID numbers."
+msgstr ""
+"Die Kundenidentifikationsnummer ist eine eindeutige Nummer, mit deren Hilfe "
+"die Banken feststellen können, um welchen Kunden es sich bei einer Anfrage "
+"oder einem Serviceantrag handelt. Jede Bank hat ihre eigene Art, "
+"Kundenidentifikationsnummern zu erstellen."
+
+#: admin/partials/jimsoft-qr-bill-settings-main.php:77
+msgid ""
+"The invoicing system with QR-IBAN is intended for those who want to have an "
+"invoicing and payment capture system compatible with the orange (ISR) and "
+"red (ES) payment slips of the ISR system. Your bank must assign you a QR-"
+"IBAN account number for this purpose. The QR-IBAN number starting with the 5 "
+"number begins with 3. Your ISO20022 digital account statement (camt053) will "
+"only show the total of all payments for the day."
+msgstr ""
+"Das Fakturierungssystem mit QR-IBAN ist für diejenigen gedacht, die ein "
+"Fakturierungs- und Zahlungserfassungssystem haben möchten, das mit den "
+"orangen (ESR) und roten (ES) Einzahlungsscheinen des ESR-Systems kompatibel "
+"ist. Ihre Bank muss Ihnen hierzu eine QR-IBAN-Kontonummer zuweisen. Die QR-"
+"IBAN-Nummer ab der 5 Zahl beginnt mit 3. In Ihrem digitalen ISO20022-"
+"Kontoauszug (camt053) wird nur die Totalsumme aller Zahlungen des Tages "
+"ausgewiesen."
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:82
+msgid "This controls the title which the user sees during checkout."
+msgstr "Dies ist der Titel, den der Benutzer während der Kaufabwicklung sieht."
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:80
+msgid "Title"
+msgstr "Titel"
+
+#: wc-templates/order/order-details.php:106
+msgid "Total"
+msgstr "Total"
+
+#. Description of the plugin
+msgid ""
+"With this plugin you can generate a swiss QR invoice for WooCommerce orders."
+msgstr ""
+"Mit diesem Plugin kannst du für WooCommerce Bestellungen eine schweizer QR-"
+"Rechnung generieren. "
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:97
+msgid "You will find the invoice attached to this order confirmation."
+msgstr "Die Rechnung finden Sie im Anhang dieser Bestellbestätigung."
+
+#: includes/class-jimsoft-qr-bill-invoice-gateway.php:90
+msgid "You will find the QR invoice attached to your order confirmation."
+msgstr "Die QR-Rechnung finden Sie im Anhang zu Ihrer Bestellbestätigung."

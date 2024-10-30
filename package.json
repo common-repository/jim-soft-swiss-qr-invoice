@@ -1,0 +1,14 @@
+{
+  "name": "jimsoft-qr-bill",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build",
+    "pot": "wp i18n make-pot --ignore-domain . languages/jimsoft-qr-bill.pot",
+    "generate_po": "msgfmt  -o languages/jimsoft-qr-bill-de_DE.mo  languages/jimsoft-qr-bill-de_DE.po"
+  },
+  "devDependencies": {
+    "@woocommerce/dependency-extraction-webpack-plugin": "^1.7.0",
+    "@wordpress/scripts": "17.1.0",
+    "cross-env": "6.0.3"
+  }
+}
